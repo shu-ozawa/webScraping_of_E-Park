@@ -4,4 +4,6 @@ E-Parkのサイトで，条件を指定したリンク（例えば，「長野�
 
 Google Colabで使えます．ただし，他のサイトでは使えないので注意
 
+https://colab.research.google.com/drive/1olJe7DntE_EBFB6fokA8LYdool-ULWnU?usp=sharing
+
 大体，5時間くらいかかりました．
