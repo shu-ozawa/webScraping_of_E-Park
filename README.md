@@ -6,4 +6,3 @@ Google Colabで使えます．ただし，他のサイトでは使えないの�
 
 https://colab.research.google.com/drive/1olJe7DntE_EBFB6fokA8LYdool-ULWnU?usp=sharing
 
-大体，5時間くらいかかりました．
